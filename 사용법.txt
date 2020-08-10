@@ -1,0 +1,13 @@
+This program preserved by MIT LICENSE. Please make sure that you read the license note. 
+
+★텍스트로 저장 버전
+1. 윈도우 취약점 점검.bat 실행
+2. 화면 뜰때 입력 두번
+- 첫번째 입력후 엔터 (점검자)
+- 두번째 입력후 엔터 (수검자)
+3. 실행결과 후 엔터
+4. result  폴더 안에 값 확인가능
+5. (현재 파일은 계속 덮어씌워지기 되는중, 그러니 사용때마다 저장후 이름 변경 할것)
+
+★일반 버전
+1. 
